@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0556BA37224E546800F2515B /* CountdownProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0556BA36224E546800F2515B /* CountdownProgressBar.swift */; };
 		05AFBC52224DC3EA002FD9BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05AFBC51224DC3EA002FD9BA /* AppDelegate.swift */; };
 		05AFBC54224DC3EA002FD9BA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05AFBC53224DC3EA002FD9BA /* ViewController.swift */; };
 		05AFBC57224DC3EA002FD9BA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05AFBC55224DC3EA002FD9BA /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0556BA36224E546800F2515B /* CountdownProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountdownProgressBar.swift; sourceTree = "<group>"; };
 		05AFBC4E224DC3EA002FD9BA /* Core Animations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Core Animations.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		05AFBC51224DC3EA002FD9BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		05AFBC53224DC3EA002FD9BA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				05AFBC51224DC3EA002FD9BA /* AppDelegate.swift */,
 				05AFBC53224DC3EA002FD9BA /* ViewController.swift */,
+				0556BA36224E546800F2515B /* CountdownProgressBar.swift */,
 				05AFBC55224DC3EA002FD9BA /* Main.storyboard */,
 				05AFBC58224DC3EB002FD9BA /* Assets.xcassets */,
 				05AFBC5A224DC3EB002FD9BA /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				05AFBC54224DC3EA002FD9BA /* ViewController.swift in Sources */,
 				05AFBC52224DC3EA002FD9BA /* AppDelegate.swift in Sources */,
+				0556BA37224E546800F2515B /* CountdownProgressBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
